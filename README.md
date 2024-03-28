@@ -7,7 +7,8 @@
     <img src="https://media1.giphy.com/media/NKcHjb5vYSE3E0H4ug/giphy.gif" width="5%" style="margin: 0;" />
 </p>
 
-## <p align="center"> :sparkles: Some stats :sparkles: </p>
+## <p align="center"> 👾 👾 Some stats 👾 👾 </p>
+<div
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulafloresS&langs_count=6&theme=react&layout=donut-vertical" align = "right" width="30%" />
@@ -22,8 +23,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PaulafloresS&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
   </a>
 </p> 
+</div>
+<br>
+<br>
 
-## <p align="center"> Current technologies that I like 👾 👾 </p>
+## <p align="center">👾 👾 Current technologies that I like 👾 👾 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +36,7 @@
 </p>
 <br>
 
-## <p align="center"> Current technologies that I'm learning  👾 👾 </p>
+## <p align="center">👾 👾 Current technologies that I'm learning  👾 👾 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,3 +44,20 @@
   </a>
 </p>
 <br>
+
+## <p align="center">👾 👾 About me  👾 👾 </p>
+
+- I am a graduate of UNAM with a degree in computer engineering
+- My first programming languaje was java
+- I love creating mobile applications
+- I like everything that has to do with ux/ui
+
+## <p align="center">👾 👾 More about me  👾 👾 </p>
+
+- I like to do yoga
+- My favorite story Alice in Wonderland
+- Favorite movie La La Land and Amelie
+- In my free time I like to draw
+- Music: Ariana Grande, Dua Lipa, Radiohead, Arctic Monkeys, Crystal Castles, RIHANNA
+- I like cats and musicals with cats like cats
+- Favorite animals: cats, dogs, and all baby animals
