@@ -17,17 +17,26 @@
 <p>
 </p>
 <br>
-
 <p align = "left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulafloresS&show_icons=true&theme=react&rank_icon=github"  width="60%" height="60%"  />
   </a>
 </p> 
 
+## <p align="center"> Current technologies that I like 👾 👾 </p>
 
-
-<br>
 <p align="center">
-  <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/3bbebda874e6003b.png?hl=es-419" width="100"><img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2017/08/apple-swift-300x199.jpg" width="100"><img src="https://miro.medium.com/v2/resize:fit:2560/1*2XrX0fP0htyTCah7AglTig.jpeg" width="100">
-  <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" width="100">                                                                                                                                                                                                                                                                                                                                                                       
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,python" width="300"/>
+  </a>
 </p>
+<br>
+
+## <p align="center"> Current technologies that I'm learning  👾 👾 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter" width="150"/>
+  </a>
+</p>
+<br>
